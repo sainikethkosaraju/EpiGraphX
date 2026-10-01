@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "epigraphx"
+version = "1.0.0"
+description = "Node-level epidemic forecasting and intervention analysis on dynamic contact networks with graph neural networks"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Sai Niketh Kosaraju"}, {name = "Sanjay Muthyala"}]
+
+[tool.setuptools]
+packages = ["epigraphx"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["ignore::FutureWarning", "ignore::DeprecationWarning"]

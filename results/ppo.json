@@ -1,0 +1,32 @@
+{
+  "PPO meta-policy": {
+    "mean": 51.45,
+    "std": 15.831850807786184
+  },
+  "No intervention": {
+    "mean": 258.6,
+    "std": 23.852463185172304
+  },
+  "Random": {
+    "mean": 121.7,
+    "std": 25.797480497133822
+  },
+  "Acquaintance": {
+    "mean": 93.25,
+    "std": 21.177523462388137
+  },
+  "Degree": {
+    "mean": 47.5,
+    "std": 15.200328943809078
+  },
+  "PageRank": {
+    "mean": 46.8,
+    "std": 16.690116836020053
+  },
+  "_setup": {
+    "timesteps": 30000,
+    "nodes": 400,
+    "budget": 5,
+    "eval_runs": 20
+  }
+}

@@ -1,0 +1,151 @@
+policy,run,total_infected,peak_infectious,peak_step
+No intervention,0,494,88,33
+Random,0,313,59,25
+Acquaintance,0,235,40,32
+Degree,0,120,26,15
+PageRank,0,150,25,15
+No intervention,1,483,105,26
+Random,1,358,77,25
+Acquaintance,1,240,43,29
+Degree,1,211,35,33
+PageRank,1,197,38,31
+No intervention,2,540,126,30
+Random,2,406,97,18
+Acquaintance,2,275,58,23
+Degree,2,162,37,19
+PageRank,2,148,35,17
+No intervention,3,537,107,29
+Random,3,367,75,23
+Acquaintance,3,355,84,18
+Degree,3,229,51,17
+PageRank,3,215,54,17
+No intervention,4,509,87,24
+Random,4,287,58,27
+Acquaintance,4,244,42,19
+Degree,4,126,23,14
+PageRank,4,108,22,13
+No intervention,5,473,96,42
+Random,5,384,85,25
+Acquaintance,5,343,92,19
+Degree,5,119,20,0
+PageRank,5,119,20,0
+No intervention,6,561,107,24
+Random,6,354,82,23
+Acquaintance,6,287,61,17
+Degree,6,143,36,13
+PageRank,6,142,36,13
+No intervention,7,571,104,28
+Random,7,408,87,15
+Acquaintance,7,321,74,19
+Degree,7,266,57,12
+PageRank,7,234,47,24
+No intervention,8,508,98,28
+Random,8,291,61,21
+Acquaintance,8,349,77,22
+Degree,8,156,39,14
+PageRank,8,172,39,14
+No intervention,9,527,98,20
+Random,9,353,82,24
+Acquaintance,9,277,54,19
+Degree,9,228,50,15
+PageRank,9,242,48,17
+No intervention,10,560,111,26
+Random,10,340,71,21
+Acquaintance,10,241,47,33
+Degree,10,178,35,24
+PageRank,10,186,35,24
+No intervention,11,544,113,22
+Random,11,358,84,23
+Acquaintance,11,336,91,16
+Degree,11,127,28,8
+PageRank,11,141,28,8
+No intervention,12,452,68,39
+Random,12,291,55,22
+Acquaintance,12,283,59,16
+Degree,12,161,32,18
+PageRank,12,154,30,19
+No intervention,13,506,87,32
+Random,13,231,43,21
+Acquaintance,13,247,53,22
+Degree,13,164,30,29
+PageRank,13,152,27,29
+No intervention,14,525,103,24
+Random,14,384,85,22
+Acquaintance,14,341,75,19
+Degree,14,218,48,16
+PageRank,14,221,53,16
+No intervention,15,537,94,27
+Random,15,281,54,21
+Acquaintance,15,333,68,22
+Degree,15,201,42,16
+PageRank,15,213,45,11
+No intervention,16,489,119,25
+Random,16,374,93,26
+Acquaintance,16,251,44,27
+Degree,16,235,48,18
+PageRank,16,207,49,16
+No intervention,17,578,145,18
+Random,17,436,113,21
+Acquaintance,17,377,84,22
+Degree,17,157,31,10
+PageRank,17,157,32,26
+No intervention,18,510,110,29
+Random,18,299,60,24
+Acquaintance,18,295,52,25
+Degree,18,95,20,2
+PageRank,18,102,20,2
+No intervention,19,536,100,36
+Random,19,289,57,29
+Acquaintance,19,309,57,25
+Degree,19,151,27,4
+PageRank,19,131,27,4
+No intervention,20,546,98,26
+Random,20,312,70,24
+Acquaintance,20,206,36,33
+Degree,20,159,38,13
+PageRank,20,183,40,19
+No intervention,21,553,124,24
+Random,21,366,93,24
+Acquaintance,21,321,81,18
+Degree,21,193,37,18
+PageRank,21,215,37,18
+No intervention,22,494,95,30
+Random,22,324,67,21
+Acquaintance,22,337,72,24
+Degree,22,148,39,14
+PageRank,22,188,42,15
+No intervention,23,562,122,26
+Random,23,358,70,28
+Acquaintance,23,320,56,20
+Degree,23,159,38,15
+PageRank,23,191,39,15
+No intervention,24,488,84,31
+Random,24,352,67,22
+Acquaintance,24,332,78,19
+Degree,24,239,47,16
+PageRank,24,224,47,16
+No intervention,25,545,112,26
+Random,25,423,91,16
+Acquaintance,25,373,83,15
+Degree,25,185,34,16
+PageRank,25,168,29,26
+No intervention,26,483,108,28
+Random,26,382,73,28
+Acquaintance,26,350,92,13
+Degree,26,198,44,19
+PageRank,26,235,44,19
+No intervention,27,528,125,18
+Random,27,380,86,19
+Acquaintance,27,362,95,20
+Degree,27,216,55,16
+PageRank,27,232,56,17
+No intervention,28,491,90,19
+Random,28,375,74,26
+Acquaintance,28,286,61,17
+Degree,28,198,36,16
+PageRank,28,173,36,16
+No intervention,29,506,99,32
+Random,29,384,83,16
+Acquaintance,29,260,55,28
+Degree,29,186,32,17
+PageRank,29,208,43,29

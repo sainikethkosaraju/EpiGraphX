@@ -1,0 +1,45 @@
+{
+  "graph": {
+    "n_nodes": 800,
+    "n_steps": 60,
+    "topology": "barabasi",
+    "base_m": 3,
+    "rewire_frac": 0.05,
+    "event_prob": 0.06,
+    "event_size": 30,
+    "event_p": 0.4
+  },
+  "epidemic": {
+    "beta": 0.045,
+    "mean_incubation": 3.0,
+    "mean_infectious": 7.0,
+    "gamma": 0.01,
+    "asymp_prob": 0.25,
+    "waning": 0.0004,
+    "initial_infected": 20
+  },
+  "train": {
+    "n_train_sims": 6,
+    "n_val_sims": 2,
+    "n_test_sims": 2,
+    "window": 5,
+    "horizons": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "hidden": 64,
+    "dropout": 0.3,
+    "lr": 0.002,
+    "weight_decay": 0.0005,
+    "max_epochs": 20,
+    "patience": 4,
+    "mc_samples": 30
+  },
+  "seeds": [
+    0,
+    1,
+    2
+  ]
+}
